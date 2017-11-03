@@ -382,4 +382,4 @@ public class proves {
     }
 
 }
-
+// En Miquel ha estat aquí
